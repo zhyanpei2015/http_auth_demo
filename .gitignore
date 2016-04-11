@@ -16,5 +16,7 @@
 !/log/.keep
 /tmp
 /config/*
+!/config/routes.rb
+!/config/locales
 /test/*
 .byebug_history
